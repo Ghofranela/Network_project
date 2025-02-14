@@ -25,11 +25,9 @@ Ce fichier répertorie toutes les captures d'écran utilisées dans le rapport.
   ![Voisins PE1](images/voisins_pe1.png)
 - **Vérification de la LFIB**  
   ![LFIB](images/lfib.png)
-- **Bindings des labels MPLS (LDP)**  
-  ![Bindings MPLS](images/bindings_mpls.png)
 
 ## 📌 Figure 9: Affichage des bindings des labels MPLS récupérés par LDP  
-![Bindings Labels LDP](images/bindings_labels_ldp.png)
+  ![Bindings MPLS](images/bindings_mpls.png)
 
 ## 📌 Vérification du BGP
 - **Customer 1 - PE1**  
