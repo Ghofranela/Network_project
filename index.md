@@ -2,6 +2,9 @@
 
 Ce fichier répertorie toutes les captures d'écran utilisées dans le rapport.
 
+## 📌 Figure 1: Topologie de l'entreprise
+![Topologie de l'entreprise](images/topologie_entreprise.png)
+
 ## 📌 Routage OSPF de Backbone IP/MPLS
 ![Routage OSPF de Backbone](images/routage_ospf.png)
 
