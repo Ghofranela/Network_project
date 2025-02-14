@@ -68,49 +68,38 @@ L’entreprise repose sur une architecture MPLS assurant l’interconnexion de p
 
 ### Routage OSPF de Backbone IP/MPLS
 
-[Retour à l'index](index.md)
 
 ### Configuration de MPLS
 
-[Retour à l'index](index.md)
 
 ### Configuration de VRF
 
-[Retour à l'index](index.md)
 
 ## Validation et test de la connexion
 
 ### Vérification du routage OSPF
 
 - **Table de voisinage OSPF**  
-[Retour à l'index](index.md)
 
 - **Table de routage OSPF**  
-[Retour à l'index](index.md)
 
 ### Vérification des échanges MPLS
 
 - **Affichage des voisins PE1**  
-[Retour à l'index](index.md)
 
 - **Vérification de la LFIB**  
-[Retour à l'index](index.md)
 
 ### Vérification des instances BGP
 
 - **Customer 1 - PE1**  
-[Retour à l'index](index.md)
 
 - **Customer 1 - PE2**  
-[Retour à l'index](index.md)
 
 ### Tests de connectivité entre clients
 
 - **Test de connectivité CE11 à CE12**  
-[Retour à l'index](index.md)
 
 - **Test de connectivité CE21 à CE22**  
-[Retour à l'index](index.md)
 
 ## Conclusion
 
