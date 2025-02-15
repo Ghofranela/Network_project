@@ -1,3 +1,48 @@
+
+# 📜 Rapport De Projet 📜
+
+## 🏛 Parcours  
+**ING5-J : SSIR-A**  
+
+## 📌 Sujet  
+**Architecture et Sécurité de Réseau**  
+
+---
+
+## 👨‍💻 Réalisé par  
+**Meriem Frej & Ghofrane Labidi**  
+
+## 🎓 Encadrant Tek-up  
+**MR Tarek Hdiji**  
+
+---
+
+## 📅 Année Universitaire  
+**2024/2025**
+
+---
+
+# Sommaire
+
+- [Introduction Générale](#introduction-generale)
+- [Chapitre 1 : Conception et mise en place de VPN-MPLS](#chapitre-1-conception-et-mise-en-place-de-vpn-mpls)
+  - [Introduction](#introduction)
+  - [Technologie de Service VPN-MPLS](#technologie-de-service-vpn-mpls)
+  - [Architecture de la Solution VPN-MPLS](#architecture-de-la-solution-vpn-mpls)
+  - [Environnement de travail (GNS3 et VMware)](#environnement-de-travail-gns3-et-vmware)
+  - [Topologie de l’entreprise](#topologie-de-lentreprise)
+  - [Mise en place de VPN-MPLS de l’entreprise](#mise-en-place-de-vpn-mpls-de-lentreprise)
+    - [Routage OSPF de Backbone IP/MPLS](#routage-ospf-de-backbone-ipmpls)
+    - [Configuration de MPLS](#configuration-de-mpls)
+    - [Configuration de VRF](#configuration-de-vrf)
+  - [Validation et test de la connexion](#validation-et-test-de-la-connexion)
+    - [Vérifier le bon fonctionnement du routage OSPF pour PE1](#verifier-le-bon-fonctionnement-du-routage-ospf-pour-pe1)
+    - [Vérifier le bon fonctionnement de la commutation des paquets au sein du Backbone PE1](#verifier-le-bon-fonctionnement-de-la-commutation-des-paquets-au-sein-du-backbone-pe1)
+    - [Vérifier le fonctionnement du VPN pour PE1 et PE2](#verifier-le-fonctionnement-du-vpn-pour-pe1-et-pe2)
+    - [Vérifier la connexion entre les différents sites de clients](#verifier-la-connexion-entre-les-differents-sites-de-clients)
+- [Conclusion](#conclusion)
+
+---
 # Introduction Générale
 
 Dans un monde où la connectivité et la sécurité des réseaux sont devenues des enjeux majeurs pour les entreprises, la conception d’une infrastructure réseau fiable et performante est une nécessité. Les organisations doivent relever plusieurs défis tels que l’interconnexion sécurisée de sites distants, l’optimisation du trafic, la garantie de la qualité de service et la protection contre les menaces de cybersécurité.
