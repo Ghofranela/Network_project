@@ -11,7 +11,7 @@
 ## Réalisé par  
 **Meriem Frej & Ghofrane Labidi**  
 
-## 🎓 Encadrant Tek-up  
+## 🎓 Encadrant universitaire  
 **MR Tarek Hdiji**  
 
 ---
