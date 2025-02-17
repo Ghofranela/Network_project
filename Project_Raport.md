@@ -122,4 +122,3 @@ Le prochain chapitre abordera les résultats obtenus et les conclusions finales 
 ---
 
 [Retour à l'index](index.md)
-
